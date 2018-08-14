@@ -53,8 +53,9 @@ a {
 }
 .mission {
   margin-top: 270px;
+  padding: 2px;
   background-color:blue;
-  /*opacity: 0.5;*/
+  opacity: 0.24;
 }
 
 #contact {
