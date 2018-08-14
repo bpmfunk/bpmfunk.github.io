@@ -51,9 +51,10 @@ a {
 /*  border: 1px solid seashell; */
  padding-top: 100px;
 }
-.mission {
+.center {
   margin-top: 270px;
-  background-color:black
+  background-color:blue;
+  opacity: 0.5;
 }
 
 #contact {
