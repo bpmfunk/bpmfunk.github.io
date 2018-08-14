@@ -53,7 +53,8 @@ a {
 }
 .mission {
   margin-top: 270px;
-  background-color:black
+  background-color:blue;
+  opacity: 0.5;
 }
 
 #contact {
