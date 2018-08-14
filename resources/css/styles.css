@@ -1,5 +1,5 @@
 body {
-  color: white;
+  color: whitesmoke;
   font-family: 'Martel Sans';
   font-size: 14px;
   line-height: 1.65;
@@ -51,9 +51,10 @@ a {
 /*  border: 1px solid seashell; */
  padding-top: 100px;
 }
-.mission {
+.center {
   margin-top: 270px;
-  background-color:black
+  background-color:blue;
+  opacity: 0.25;
 }
 
 #contact {
